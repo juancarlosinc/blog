@@ -1,4 +1,5 @@
 # blog
 este es un blog
 
-Primera: prueba
+Me gusta la :pizza:
+Quiero :pizza: T_T
